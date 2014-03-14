@@ -13,8 +13,7 @@ maintainer:             Greg Weber <greg@gregweber.info>
 copyright:              2013 Greg Weber
 homepage:               https://github.com/gregwebs/dlist-instances
 bug-reports:            https://github.com/gregwebs/dlist-instances/issues
-extra-source-files:     README.md,
-                        ChangeLog.md
+extra-source-files:     README.md
 build-type:             Simple
 cabal-version:          >= 1.9.2
 
